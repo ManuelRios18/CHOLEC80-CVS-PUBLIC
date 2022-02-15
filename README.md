@@ -1,5 +1,7 @@
 # COLENET: Baseline model for the Cholec80-CSV dataset
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository holds the data preprocessing and the baseline model training and testing 
 scripts for the dataset Cholec80-CSV, the first open dataset for Strasgerg's Criteria Detection.
 
