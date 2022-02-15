@@ -34,7 +34,7 @@ class ColelapsPreprocessor:
             file_path = os.path.join(self.dest_path, video_tag)
             if not os.path.exists(file_path):
                 os.mkdir(file_path)
-            file_name = file_path + "/" + str(i) + ".png"
+            file_name = file_path + "/" + str(i) + ".jpg"
             new_frame = self.cut_frame(frame)
             cv2.imwrite(file_name, new_frame)
             i += 1
