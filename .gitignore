@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*__pycache__*
+results/*
+!results/videos_frames_index.csv
+data/*
+!data/folds.json
+!data/.gitkeep
+data/surgeons_annotations/
+!data/surgeons_annotations/.gitkeep
+log/*
+!log/.gitkeep
+extract_problems.py
+image_loader.py
