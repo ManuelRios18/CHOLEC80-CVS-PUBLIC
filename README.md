@@ -10,7 +10,7 @@ scripts for the dataset Cholec80-CSV, the first open dataset for Strasgerg's Cri
 
 ### Download Cholec80-CVS dataset
 
-Download Cholec80-CSV from [its official repository](https://duckduckgo.com).  
+Download Cholec80-CSV from [its official repository](https://springernature.figshare.com/articles/dataset/Cholec80-CVS_An_open_dataset_with_an_evaluation_of_Strasberg_s_critical_view_of_safety_for_Artificial_Intelligence/22183885?backTo=/collections/Cholec80-CVS_An_open_dataset_with_an_evaluation_of_Strasberg_s_critical_view_of_safety_for_AI/5880458).  
 Then store it on `data/` with the name `surgeons_annotations.xlsx`
 
 ### Configuration file
